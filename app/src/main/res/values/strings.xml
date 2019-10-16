@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">thequizapp</string>
+    <string name="qui">The Quiz App</string>
+    <string name="show">show</string>
+    <string name="change">change</string>
+    <string name="check">check</string>
+    <string name="blank" />
+    <string name="start">start playing</string>
+
+
+</resources>
